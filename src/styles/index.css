@@ -1,0 +1,23 @@
+html{
+    margin: 0;
+    border: 0;
+}
+
+body{
+    background-color: rgb(69, 69, 69);
+    color:white;
+}
+main{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.card{
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
